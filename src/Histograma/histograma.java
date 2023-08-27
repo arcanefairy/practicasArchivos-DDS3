@@ -8,7 +8,7 @@ public class histograma {
 
    
     public static void main(String[] args) {
-    String archivo = "C:/Users/Hp/Downloads/divina_comedia_sp.txt";
+    String archivo = "divina_comedia_sp.txt";
     HashMap<Integer, Integer> histograma = new HashMap<>();
 
         try {
