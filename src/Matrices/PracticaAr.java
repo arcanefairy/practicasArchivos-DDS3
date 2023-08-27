@@ -5,8 +5,8 @@ import java.io.*;
 public class PracticaAr {
 
     public static void main(String[] args) throws InterruptedException {
-        String archivoA = "C:/Users/Hp/Downloads/a.mat";
-        String archivoB = "C:/Users/Hp/Downloads/b.mat";
+        String archivoA = "a.mat";
+        String archivoB = "b.mat";
         String archivoC = "c.mat";
 
         try {
